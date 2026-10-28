@@ -49,19 +49,19 @@
 
 ### 1. Успешная сборка в TeamCity (Build #3)
 ![скриншот 1](https://github.com/MindMaze74/teamcity_dz/blob/master/img/4.png)
-*[Вставьте сюда скриншот зеленой сборки Build #3]*
+
 
 ### 2. Артефакты сборки (.jar) в TeamCity
 ![скриншот 2](https://github.com/MindMaze74/teamcity_dz/blob/master/img/5.png)
-*[Вставьте сюда скриншот вкладки Artifacts, где видно файл plaindoll-0.0.2.jar]*
+
 
 ### 3. Артефакт, успешно задеплоенный в Nexus
 ![скриншот 3](https://github.com/MindMaze74/teamcity_dz/blob/master/img/9.png)
-*[Вставьте сюда скриншот из Nexus (Browse -> maven-releases -> org -> netology -> plaindoll -> 0.0.2)]*
+
 
 ### 4. Слияние ветки feature/add_reply (Pull Request)
 ![скриншот 4](https://github.com/MindMaze74/teamcity_dz/blob/master/img/10.png)
-*[Вставьте сюда скриншот закрытого Pull Request #2 на GitHub]*
+
 
 ---
 **Домашнее задание выполнено полностью.**
